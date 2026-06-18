@@ -1,0 +1,13 @@
+Übersicht – Lerninhalte, Anforderungen
+- Erfahrung im Aufsetzen der Infrastruktur für MLOperationen und GenAIOperationen
+- Erfahrung beim Trainieren, Optimieren, Deployen, CI/CD (maintainen) von ML über Azure
+- Erfahrung Deployen, Evaluieren, Monitoring, Optimieren von GenAI Applikationen und Agenten über Microsoft Foundry
+- Data Science-Hintergrund, Erfahrung in Python. DevOps (CLI, GitHubActions)
+- IaC, Azure CLI, Bicep
+Verantwortlichkeiten:
+- Entwerfen und Implementieren von MLOps Infrastruktur
+- Implementierung von ML-Model Lebenszyklus und Operationen
+- Entwerfen und Implementieren GenAIOps Infrastruktur
+- Implementierung von Qualitätskontrollen, sowie Beobachtbarkeit von Generativer KI
+- Optimierung von Generativen KI-Systemen und Modell-Leistung
+

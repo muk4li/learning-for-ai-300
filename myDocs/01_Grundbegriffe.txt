@@ -1,0 +1,12 @@
+Was ist AI, Machine Learning und MLOps? – Grundbegriffe
+- AI ist der Versuch, Computer Aufgaben erledigen zu lassen, die normalerweise menschliche Intelligenz benötigen. Beispiel: erkenne die Katze auf dem Bild. Verstehe meine Frage. Treffe eine Entscheidung. Diese Aufgaben „automatisch“ lösen. AIs sind auf ihre Aufgaben spezialisiert/ trainiert worden.
+- Machine-Learning, gilt als Teilbereich von AI. Im Gegensatz zu klassischer Software, wo Menschen die genauen Regeln schreiben, erkennt bei ML das System Muster aus Daten. Mustererkennung.
+- Generative-AI, ist AI die neue Inhalte erzeugen kann. Klassische ML sind Prüfer, GenAi ist Autor.
+- Models sind Ergebnisse eines jeweiligen Lernprozesses. Also eine Art „gelerntes Regelwerk“, keine einfache Wenn-Dann-Regel, eher gelernte Muster aus Daten. Analogie-Beispiel: Erfahrene Biker können über Alter, Zustand, Marke von Motorrädern Preise einschätzen. ML-Model schätzt mathematisch ein.
+- Daten, Features und Labels. Anhand eines Tabellenbeispiels: Spalten – Kunde, Alter, WebSiteBesuche, Produkt gekauft. Anzahl der WebSiteBesuche sind die Features(Hinweise) um das Label(Antwort) einschätzen zu können-> mehr Besuche, höhere Chance zu Kaufen.
+- Training
+- Inference
+- Evaluation
+- MLOps
+- GenAIOps
+
